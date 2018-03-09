@@ -1,1 +1,1 @@
-Read this file before you do anything.
+Denna fil ska ge instruktioner för att starta programvaran. Det kan behöva anges saker som vilka externa bibliotek som behövs, vilken fil som main-metoden ligger i, om det måste finnas en viss katalogstruktur för att sökvägar ska stämma eller liknande.
